@@ -404,3 +404,4 @@ If you want to follow the prompt’s example: wrap the service as a small Ktor a
    - how you control critic spend (budgets, sampling, and measurement)
 3. A short demo narrative:
    - “message A” extracted wrongly, operator overrides, critic updates prompt context, “message B” improves.
+4. Reference implementation code lives at `omni/assignment-2-self-correction-pipeline/` (`src/server.js` + `src/worker.js`).
